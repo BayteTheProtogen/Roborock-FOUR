@@ -1,0 +1,11 @@
+### Przebieg
+-zakup
+-błąd 18
+-dekonstrukcja
+-czyszczenie
+-faza frankensteina
+-błąd 13
+-lutowanie przewodu ładowania (reverted)
+-zamiana fabrycznego zasilacza stacji ładowania na USB trigger board 20V
+-analiza struktury plików robota
+-testy odtwarzania własnych plików audio
