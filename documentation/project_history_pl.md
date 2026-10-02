@@ -9,3 +9,6 @@
 -zamiana fabrycznego zasilacza stacji ładowania na USB trigger board 20V
 -analiza struktury plików robota
 -testy odtwarzania własnych plików audio
+-początek treningu modelu wykrywania przeszkód
+-lepsza szybkość ładowania
+-problemy z temperaturą podczas ładowania
