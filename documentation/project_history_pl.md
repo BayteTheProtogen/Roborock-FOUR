@@ -1,14 +1,15 @@
 ### Przebieg
--zakup
--błąd 18
--dekonstrukcja
--czyszczenie
--faza frankensteina
--błąd 13
--lutowanie przewodu ładowania (reverted)
--zamiana fabrycznego zasilacza stacji ładowania na USB trigger board 20V
--analiza struktury plików robota
--testy odtwarzania własnych plików audio
--początek treningu modelu wykrywania przeszkód
--lepsza szybkość ładowania
--problemy z temperaturą podczas ładowania
+-zakup<br>
+-błąd 18<br>
+-dekonstrukcja<br>
+-czyszczenie<br>
+-faza frankensteina<br>
+-błąd 13<br>
+-lutowanie przewodu ładowania (reverted)<br>
+-zamiana fabrycznego zasilacza stacji ładowania na USB trigger board 20V<br>
+-analiza struktury plików robota<br>
+-testy odtwarzania własnych plików audio<br>
+-początek treningu modelu wykrywania przeszkód [konto ultralytics](https://platform.ultralytics.com/michal-kasinski)<br>
+-lepsza szybkość ładowania<br>
+-problemy z temperaturą podczas ładowania<br>
+-wyłączenie sensora koła, lutowanie czujnika obwodu<br>
