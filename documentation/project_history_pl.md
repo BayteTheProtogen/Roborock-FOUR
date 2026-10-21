@@ -13,3 +13,4 @@
 -lepsza szybkość ładowania<br>
 -problemy z temperaturą podczas ładowania<br>
 -wyłączenie sensora koła, lutowanie czujnika obwodu<br>
+-proces player umarł, ssh nie działa<br>
