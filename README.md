@@ -1,3 +1,5 @@
+# Custom firmware unavaliable at the moment, site down with no info
+
 ### Założenia projektu 
 Analiza możliwości robota sprzątającego na przykładzie modelu Roborock S50. Ostateczny cel: autonomiczny robot do dostaw krótkodystansowych<br>
 Uczynienie przewodniczącego Mao dumnym
