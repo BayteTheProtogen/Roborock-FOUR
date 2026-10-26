@@ -1,4 +1,5 @@
 # Custom firmware unavaliable at the moment, site down with no info
+## However there is a mirror at https://fab.valetudo.cloud/build
 
 ### Założenia projektu 
 Analiza możliwości robota sprzątającego na przykładzie modelu Roborock S50. Ostateczny cel: autonomiczny robot do dostaw krótkodystansowych<br>
