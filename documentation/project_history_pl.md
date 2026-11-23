@@ -1,4 +1,6 @@
 ### Przebieg
+
+09/2026
 -zakup<br>
 -błąd 18<br>
 -dekonstrukcja<br>
@@ -9,9 +11,14 @@
 -zamiana fabrycznego zasilacza stacji ładowania na USB trigger board 20V<br>
 -analiza struktury plików robota<br>
 -testy odtwarzania własnych plików audio<br>
+
+10/2026
 -początek treningu modelu wykrywania przeszkód [konto ultralytics](https://platform.ultralytics.com/michal-kasinski)<br>
 -lepsza szybkość ładowania<br>
 -problemy z temperaturą podczas ładowania<br>
 -wyłączenie sensora koła, lutowanie czujnika obwodu<br>
 -proces player umarł, ssh nie działa<br>
 -full firmware reinstall
+
+11/26
+-zmiana koncepcji na zarządzanie poprzez ESP32
